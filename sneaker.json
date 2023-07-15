@@ -3,9 +3,9 @@
         {
             "id": 1,
             "companyName": "Nike",
-            "name": "TERMINATOR HIGH 'WHITE/GAME ROYAL'",
-            "price": 155,
-            "description": "Untouched, unaltered and straight from the vault, the Terminator High lets you step back to the era of hook shots, knee pads and calf-high socks. Returning to the '85 original (Nike's first-ever signature school shoe), the throwback look stays easy-to-style with vibrant blue accents against crisp white. Premium leather keeps your look smoother than backboard glass and retro branding delivers a big varsity finish. It's game time!",
+            "name": "DUNK HI RETRO BTTYS 'STADIUM GREEN/WHITE-STADIUM GREEN-WHITE'",
+            "price": 125,
+            "description": "Recognizing the Dunk's roots as the top-ranking college team sneaker, the Be True To Your School pack looks to the original ad campaign for inspiration. Colors represent top-flight universities, while design details serve throwback hoops flair. And that crisp leather has the perfect amount of sheen to make 'em a hands-down win. So lace up and show off that varsity spirit with color combos that nod to your fave team. Ya game?",
             "sizes": [
                 "UK6",
                 "UK7",
@@ -13,85 +13,10 @@
                 "UK9",
                 "UK10"
             ],
-            "image": "https://i.imgur.com/8PR8ZN3.jpg"
+            "image": "https://i.imgur.com/29uC8Vw.jpg"
         },
         {
             "id": 2,
-            "companyName": "Nike",
-            "name": "W BLAZER LOW '77 JUMBO 'SUMMIT WHITE/GEODE TEAL-SEA GLASS'",
-            "price": 104,
-            "description": "They say, Don't fix what works. We say, Perfect it. This streetwear superstar gets revamped with jumbo-sized details. Harnessing the old-school look you love, the Nike Blazer Low '77 Jumbo features an oversized Swoosh design, extra-wide laces and thicker stitching.",
-            "sizes": [
-                "UK6",
-                "UK7",
-                "UK8",
-                "UK9",
-                "UK10"
-            ],
-            "image": "https://i.imgur.com/oRlV1nD.jpg"
-        },
-        {
-            "id": 3,
-            "companyName": "Nike",
-            "name": "WMNS AIR JORDAN 1 LOW SPORT BLUE/GYM RED-WHITE-SAIL",
-            "price": 101,
-            "description": "Always in, always fresh. The Air Jordan 1 Low sets you up with a piece of Jordan history and heritage that's comfortable all day. Choose your colors, then step out in the iconic profile that's built with a high-end mix of materials and encapsulated Air in the heel.",
-            "sizes": [
-                "UK6",
-                "UK7",
-                "UK8",
-                "UK9",
-                "UK10"
-            ],
-            "image": "https://i.imgur.com/enFvY6d.jpg"
-        },
-        {
-            "id": 4,
-            "companyName": "New Balance",
-            "name": "997H 'LIGHT ALUMINUM'",
-            "price": 133,
-            "description": "We’ve reimagined a popular heritage model in the 997H with a combination of classic style and innovation for a look that stands out. The sleek everyday men's sneaker pops with an elevated suede and mesh upper in fresh seasonal colors. Wherever you go, your feet will find comfort in the lightweight ENCAP Reveal midsole cushioning.",
-            "sizes": [
-                "UK6",
-                "UK7",
-                "UK8",
-                "UK9",
-                "UK10"
-            ],
-            "image": "https://i.imgur.com/gn2Jr1U.jpg"
-        },
-        {
-            "id": 5,
-            "companyName": "Reebok",
-            "name": "QUESTION MID CHALK/CORE BLACK/VECTOR BLUE",
-            "price": 146,
-            "description": "ALLEN IVERSON SIGNATURE SHOES THAT NOD TO HIS JOURNEY Allen Iverson's fierce attitude proved the critics and pundits wrong time and time again. These men's signature shoes are synonymous with his unapologetic style of play. Details like the contrast-colour toe, Reebok-lettered eyelets and crystal rubber outsole make these a true B-ball classic. Hexalite cushions on impact, so you can keep that pep in your step.",
-            "sizes": [
-                "UK6",
-                "UK7",
-                "UK8",
-                "UK9",
-                "UK10"
-            ],
-            "image": "https://i.imgur.com/NarqHRW.jpg"
-        },
-        {
-            "id": 6,
-            "companyName": "NEW BALANCE",
-            "name": "2002R 'NAVY'",
-            "price": 219,
-            "description": "The New Balance 2002R reintroduces a technical running favorite from the 2000s, outfitting the original design with modern performance upgrades. A synthetic upper construction is rendered with sleek curves and cutout segments for an updated take on a classic look. The performance of a Stability Web and N-ergy shock absorbing outsole stacked on an ABZORB midsole offer comfort and performance that can’t be pinned down with a date",
-            "sizes": [
-                "UK6",
-                "UK7",
-                "UK8",
-                "UK9",
-                "UK10"
-            ],
-            "image": "https://i.imgur.com/5m4Mu2u.jpeg"
-        },
-        {
-            "id": 7,
             "companyName": "Vans",
             "name": "MN SKATE SK8-HI 'BLUE'",
             "price": 109,
@@ -106,7 +31,7 @@
             "image": "https://i.imgur.com/USnpjCD.jpg"
         },
         {
-            "id": 8,
+            "id": 3,
             "companyName": "Vans",
             "name": "OLD SKOOL 36 DX 'LEATHER CHECK/MULTI/RED'",
             "price": 121,
@@ -121,7 +46,37 @@
             "image": "https://i.imgur.com/VN3CRKB.jpg "
         },
         {
-            "id": 9,
+            "id": 4,
+            "companyName": "NEW BALANCE",
+            "name": "2002R 'NAVY'",
+            "price": 219,
+            "description": "The New Balance 2002R reintroduces a technical running favorite from the 2000s, outfitting the original design with modern performance upgrades. A synthetic upper construction is rendered with sleek curves and cutout segments for an updated take on a classic look. The performance of a Stability Web and N-ergy shock absorbing outsole stacked on an ABZORB midsole offer comfort and performance that can’t be pinned down with a date",
+            "sizes": [
+                "UK6",
+                "UK7",
+                "UK8",
+                "UK9",
+                "UK10"
+            ],
+            "image": "https://i.imgur.com/5m4Mu2u.jpeg"
+        },
+        {
+            "id": 5,
+            "companyName": "Nike",
+            "name": "TERMINATOR HIGH 'WHITE/GAME ROYAL'",
+            "price": 155,
+            "description": "Untouched, unaltered and straight from the vault, the Terminator High lets you step back to the era of hook shots, knee pads and calf-high socks. Returning to the '85 original (Nike's first-ever signature school shoe), the throwback look stays easy-to-style with vibrant blue accents against crisp white. Premium leather keeps your look smoother than backboard glass and retro branding delivers a big varsity finish. It's game time!",
+            "sizes": [
+                "UK6",
+                "UK7",
+                "UK8",
+                "UK9",
+                "UK10"
+            ],
+            "image": "https://i.imgur.com/8PR8ZN3.jpg"
+        },
+        {
+            "id": 6,
             "companyName": "New Balance",
             "name": "327 'ORANGE'",
             "price": 146,
@@ -134,6 +89,51 @@
                 "UK10"
             ],
             "image": "https://i.imgur.com/9AcUfuA.jpg"
+        },
+        {
+            "id": 7,
+            "companyName": "Nike",
+            "name": "W BLAZER LOW '77 JUMBO 'SUMMIT WHITE/GEODE TEAL-SEA GLASS'",
+            "price": 104,
+            "description": "They say, Don't fix what works. We say, Perfect it. This streetwear superstar gets revamped with jumbo-sized details. Harnessing the old-school look you love, the Nike Blazer Low '77 Jumbo features an oversized Swoosh design, extra-wide laces and thicker stitching.",
+            "sizes": [
+                "UK6",
+                "UK7",
+                "UK8",
+                "UK9",
+                "UK10"
+            ],
+            "image": "https://i.imgur.com/oRlV1nD.jpg"
+        },
+        {
+            "id": 8,
+            "companyName": "New Balance",
+            "name": "997H 'LIGHT ALUMINUM'",
+            "price": 133,
+            "description": "We’ve reimagined a popular heritage model in the 997H with a combination of classic style and innovation for a look that stands out. The sleek everyday men's sneaker pops with an elevated suede and mesh upper in fresh seasonal colors. Wherever you go, your feet will find comfort in the lightweight ENCAP Reveal midsole cushioning.",
+            "sizes": [
+                "UK6",
+                "UK7",
+                "UK8",
+                "UK9",
+                "UK10"
+            ],
+            "image": "https://i.imgur.com/gn2Jr1U.jpg"
+        },
+        {
+            "id": 9,
+            "companyName": "Reebok",
+            "name": "QUESTION MID CHALK/CORE BLACK/VECTOR BLUE",
+            "price": 146,
+            "description": "ALLEN IVERSON SIGNATURE SHOES THAT NOD TO HIS JOURNEY Allen Iverson's fierce attitude proved the critics and pundits wrong time and time again. These men's signature shoes are synonymous with his unapologetic style of play. Details like the contrast-colour toe, Reebok-lettered eyelets and crystal rubber outsole make these a true B-ball classic. Hexalite cushions on impact, so you can keep that pep in your step.",
+            "sizes": [
+                "UK6",
+                "UK7",
+                "UK8",
+                "UK9",
+                "UK10"
+            ],
+            "image": "https://i.imgur.com/NarqHRW.jpg"
         },
         {
             "id": 10,
@@ -153,9 +153,9 @@
         {
             "id": 11,
             "companyName": "Nike",
-            "name": "DUNK HI RETRO BTTYS 'STADIUM GREEN/WHITE-STADIUM GREEN-WHITE'",
-            "price": 125,
-            "description": "Recognizing the Dunk's roots as the top-ranking college team sneaker, the Be True To Your School pack looks to the original ad campaign for inspiration. Colors represent top-flight universities, while design details serve throwback hoops flair. And that crisp leather has the perfect amount of sheen to make 'em a hands-down win. So lace up and show off that varsity spirit with color combos that nod to your fave team. Ya game?",
+            "name": "WMNS AIR JORDAN 1 LOW SPORT BLUE/GYM RED-WHITE-SAIL",
+            "price": 101,
+            "description": "Always in, always fresh. The Air Jordan 1 Low sets you up with a piece of Jordan history and heritage that's comfortable all day. Choose your colors, then step out in the iconic profile that's built with a high-end mix of materials and encapsulated Air in the heel.",
             "sizes": [
                 "UK6",
                 "UK7",
@@ -163,7 +163,8 @@
                 "UK9",
                 "UK10"
             ],
-            "image": "https://i.imgur.com/29uC8Vw.jpg"
-        }
+            "image": "https://i.imgur.com/enFvY6d.jpg"
+        },
+        
     ]
 }
