@@ -317,21 +317,6 @@
         },
         {
             "id": 22,
-            "companyName": "Nike",
-            "name": "BLAZER LOW 77 JUMBO WNTR MIDNIGHT NAVY/SAIL-GUM MED BROWN",
-            "price": 350,
-            "description": "They say, Don't fix what works. We say, Perfect it. The streetwear superstar brings home the holidays with a cozy collar that pairs perfectly with your favorite seasonal sweater. And for a bold finish, the oversized Swoosh and jumbo laces add playful cheer.",
-            "sizes": [
-                "UK6",
-                "UK7",
-                "UK8",
-                "UK9",
-                "UK10"
-            ],
-            "image": "https://images.vegnonveg.com/resized/700X573/10059/blazer-low-77-jumbo-wntr-midnight-navysail-gum-med-brown-6527c54ee87de.jpg"
-        },
-        {
-            "id": 23,
             "companyName": "New Balance",
             "name": "327 DARK MUSHROOM/WASHED BURGUNDY",
             "price": 230,
@@ -346,7 +331,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/10030/327-dark-mushroom-washed-burgundy-652399f10dd00.jpg"
         },
         {
-            "id": 24,
+            "id": 23,
             "companyName": "Adidas",
             "name": "SAMBA OG 'CLOUD WHITE/BETTER SCARLET/SUPPLIER COLOR",
             "price": 299,
@@ -361,7 +346,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/10073/samba-og-ftwr-whitebetter-scarletsupplier-colour-65293bb53db9c.jpg"
         },
         {
-            "id": 25,
+            "id": 24,
             "companyName": "Puma",
             "name": "X PERKS AND MINI SUEDE VINTAGE 'PUMA BLACK-FRESH PEAR",
             "price": 250,
@@ -376,7 +361,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/10053/suede-vtg-f-pam-puma-black-fresh-pear-6523f24cbf9e6.jpg"
         },
         {
-            "id": 26,
+            "id": 25,
             "companyName": "Nike",
             "name": "AIR FORCE 1 MID 07 LX PALE IVORY/CACAO WOW-PINK BLOOM",
             "price": 231,
@@ -391,7 +376,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/8774/air-force-1-mid-07-lx-pale-ivorycacao-wow-pink-bloom-63bbfc8c1e1b0.jpg"
         },
         {
-            "id": 27,
+            "id": 26,
             "companyName": "Nike",
             "name": "DUNK LOW PREMIUM 'MIDNIGHT NAVY/ALE BROWN-PALE IVORY",
             "price": 300,
@@ -406,7 +391,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/10317/dunk-low-premium-midnight-navyale-brown-pale-ivory-blue-653b79a9630cf.jpg"
         },
         {
-            "id": 28,
+            "id": 27,
             "companyName": "Puma",
             "name": "BLACKTOP RIDER WASHED 'ASTRO RED-TEAM REGAL RED",
             "price": 287,
@@ -421,7 +406,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/10351/blacktop-rider-washed-astro-red-team-regal-red-red-653b6859c610a.jpg"
         },
         {
-            "id": 29,
+            "id": 28,
             "companyName": "Reebok",
             "name": "CLASSIC LEATHER 'WHITE/BLACK/ALWAYS YELLOW",
             "price": 178,
@@ -436,7 +421,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/10352/classic-leather-whiteblackalways-yellow-white-653b6e2513de7.jpg"
         },
         {
-            "id": 30,
+            "id": 29,
             "companyName": "Adidas",
             "name": "SUPERSTAR 82 'PRELOVED BROWN/GUM4",
             "price": 210,
