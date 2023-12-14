@@ -257,21 +257,6 @@
         },
         {
             "id": 18,
-            "companyName": "Puma",
-            "name": "BLACKTOP RIDER WASHED 'ASTRO RED-TEAM REGAL RED'",
-            "price": 345,
-            "description": "Meet the newest member of the PUMA Rider family. The Blktop Rider features a rubber outsole inspired by PUMA's track and field archive from the '80s. Heritage colours and materials meet modern design elements in this new classic silhouette. This version features a mesh base with suede overlays, while embossed details and a washed finish complete the shoe.",
-            "sizes": [
-                "UK6",
-                "UK7",
-                "UK8",
-                "UK9",
-                "UK10"
-            ],
-            "image": "https://images.vegnonveg.com/resized/700X573/10351/blacktop-rider-washed-astro-red-team-regal-red-red-653b6859c610a.jpg"
-        },
-        {
-            "id": 19,
             "companyName": "Jordan",
             "name": "AIR JORDAN 11 RETRO 'SAIL/VELVET BROWN-ATMOSPHERE'",
             "price": 329,
@@ -286,7 +271,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/10376/air-jordan-11-retro-sailvelvet-brown-atmosphere-brown-655316263eff3.jpg"
         },
         {
-            "id": 20,
+            "id": 19,
             "companyName": "CONVERSE",
             "name": "AIR JORDAN 11 RETRO 'SAIL/VELVET BROWN-ATMOSPHERE'",
             "price": 129,
@@ -301,7 +286,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/10087/chuck-70-hi-coffee_1-65374274c9e76.jpg"
         },
         {
-            "id": 21,
+            "id": 20,
             "companyName": "Converse",
             "name": "CHUCK 70 HI BLUE/BLACK",
             "price": 180,
@@ -316,7 +301,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/10079/chuck-70-hi-blueblack-653744d6d48de.jpg"
         },
         {
-            "id": 22,
+            "id": 21,
             "companyName": "New Balance",
             "name": "327 DARK MUSHROOM/WASHED BURGUNDY",
             "price": 230,
@@ -331,7 +316,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/10030/327-dark-mushroom-washed-burgundy-652399f10dd00.jpg"
         },
         {
-            "id": 23,
+            "id": 22,
             "companyName": "Adidas",
             "name": "SAMBA OG 'CLOUD WHITE/BETTER SCARLET/SUPPLIER COLOR",
             "price": 299,
@@ -346,7 +331,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/10073/samba-og-ftwr-whitebetter-scarletsupplier-colour-65293bb53db9c.jpg"
         },
         {
-            "id": 24,
+            "id": 23,
             "companyName": "Puma",
             "name": "X PERKS AND MINI SUEDE VINTAGE 'PUMA BLACK-FRESH PEAR",
             "price": 250,
@@ -361,7 +346,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/10053/suede-vtg-f-pam-puma-black-fresh-pear-6523f24cbf9e6.jpg"
         },
         {
-            "id": 25,
+            "id": 24,
             "companyName": "Nike",
             "name": "AIR FORCE 1 MID 07 LX PALE IVORY/CACAO WOW-PINK BLOOM",
             "price": 231,
@@ -376,7 +361,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/8774/air-force-1-mid-07-lx-pale-ivorycacao-wow-pink-bloom-63bbfc8c1e1b0.jpg"
         },
         {
-            "id": 26,
+            "id": 25,
             "companyName": "Nike",
             "name": "DUNK LOW PREMIUM 'MIDNIGHT NAVY/ALE BROWN-PALE IVORY",
             "price": 300,
@@ -391,7 +376,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/10317/dunk-low-premium-midnight-navyale-brown-pale-ivory-blue-653b79a9630cf.jpg"
         },
         {
-            "id": 27,
+            "id": 26,
             "companyName": "Puma",
             "name": "BLACKTOP RIDER WASHED 'ASTRO RED-TEAM REGAL RED",
             "price": 287,
@@ -406,7 +391,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/10351/blacktop-rider-washed-astro-red-team-regal-red-red-653b6859c610a.jpg"
         },
         {
-            "id": 28,
+            "id": 27,
             "companyName": "Reebok",
             "name": "CLASSIC LEATHER 'WHITE/BLACK/ALWAYS YELLOW",
             "price": 178,
@@ -421,7 +406,7 @@
             "image": "https://images.vegnonveg.com/resized/700X573/10352/classic-leather-whiteblackalways-yellow-white-653b6e2513de7.jpg"
         },
         {
-            "id": 29,
+            "id": 28,
             "companyName": "Adidas",
             "name": "SUPERSTAR 82 'PRELOVED BROWN/GUM4",
             "price": 210,
